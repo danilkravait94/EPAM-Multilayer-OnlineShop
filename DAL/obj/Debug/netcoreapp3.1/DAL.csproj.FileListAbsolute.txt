@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Олег\source\repos\ConsoleEShop\DAL\bin\Debug\netcoreapp3.1\DAL.xml
